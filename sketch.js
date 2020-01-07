@@ -163,7 +163,7 @@ function setup() {
     s1=new system(7);
     time=0;
 
-    myButton=new Clickable(90,90);
+    myButton=new Clickable(80,80);
     myButton.height=80;
     myButton.width=80;
     myButton.text="Focus Mode"
